@@ -1,0 +1,30 @@
+.container{
+
+  display: flex;
+
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  background-color: gray;
+}
+mat-card{
+
+  width: 98%;
+  max-width: 450px;
+  background-color: lightslategray;
+
+}
+mat-card-header{
+
+  display: block;
+  text-align: center;
+}
+mat-form-field{
+
+  display: block;
+}
+#btn-login{
+
+  width: 100%;
+  font-size: small;
+}
